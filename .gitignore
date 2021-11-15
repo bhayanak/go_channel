@@ -6,7 +6,7 @@
 *.dylib
 *.metals
 *.vscode
-
+*.devcontainer
 # Test binary, built with `go test -c`
 *.test
 
